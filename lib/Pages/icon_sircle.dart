@@ -8,6 +8,9 @@ class IconCirclePage extends StatefulWidget {
 }
 
 class _IconCirclePageState extends State<IconCirclePage> {
+  bool iphone = false;
+  var android = true;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
