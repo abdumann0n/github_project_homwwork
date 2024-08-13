@@ -8,6 +8,8 @@ class IconCirclePage extends StatefulWidget {
 }
 
 class _IconCirclePageState extends State<IconCirclePage> {
+  int a = 34;
+  var s = "Abdumannon's project ";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
